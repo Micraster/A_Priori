@@ -10,4 +10,4 @@ C1 will set the range for the LFO. 47uF gives very long LFO time periods but if 
 
 150nF on C2 will be a bit shrill for many. 470nF gives a more pleasant tone. You may want to go even lower than this if you intend to use the module for basslines.
 
-** A note on very Cheap 555 timers./** There are some absurdly low priced 555 timers available on AliExpress. Many of those I have tested work fine at audio frequencies but stall in slower oscillations. Chanzon are an AliExpress and Amazon supplier selling 555 timers which are about £2 for 10. These seem to work.
+**A note on very Cheap 555 timers.** There are some absurdly low priced 555 timers available on AliExpress. Many of those I have tested work fine at audio frequencies but stall in slower oscillations. Chanzon are an AliExpress and Amazon supplier selling 555 timers which are about £2 for 10. These seem to work.
