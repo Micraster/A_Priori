@@ -12,3 +12,6 @@ The module has 4 Modes
 3) A Euclidian Sequencer
 4) Oscilloscope with variable timebase
 
+Ver 1.0 There are two errors on this board that I intend to correct in the future. 
+1) Diode D1 goes to GND rather than +5v. It can be left out and module functions perfectly well. It is there only to protect the arduino it is unlikely that signals from A Priori modules are going to exceed 5v.
+2) There are Hardware SPI pins on the Arduino that allow for faster communication that I did not realise when I designed the board. It would make sense to make use of these in any future 
