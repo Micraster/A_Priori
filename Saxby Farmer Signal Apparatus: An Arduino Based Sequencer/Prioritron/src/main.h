@@ -1,0 +1,61 @@
+#ifndef __MAIN_H
+#define __MAIN_H
+
+void changeADSR(int);
+void changeDrum(int);
+void changeNote(int);
+void colourBar(int, int);
+void colourPixel(int, int);
+void compMode();
+void displayComp();
+void displayDrums();
+void displaySeq();
+void drumMode();
+void envelopeMode();
+void initialiseCompMode();
+void initialiseDrums();
+void initialiseEnvelopeMode();
+void initialiseMenuMode();
+void initialiseOscMode();
+void initialiseScaleMode();
+void initialiseSeqMode();
+void initialiseTimeMode();
+void initialiseTonicMode();
+void initialiseWaveformMode();
+void menu();
+void moveCompCursor();
+void moveCompPlayHead();
+void moveCursor();
+void movePlayHead();
+void oscMenu();
+void playDrums();
+void playNote();
+void resetSynth();
+void scaleMenu();
+void scrollMenuMode(int inc);
+void scrollOscMode(int inc);
+void scrollScaleMode(int inc);
+void scrollTimeMode(int inc);
+void scrollTonicMode(int inc);
+void seqMode();
+void setScaleMode();
+void setTonic();
+void timeMenu();
+void tonicMenu();
+void transpose();
+void updateADSR();
+void updateControl();
+void waveformMode();
+void padMenu();
+void scrollPadMode(int inc);
+void initialisePadMode();
+void scrollPadMode(int inc);
+void switchPadMode();
+void phaserCursor(int,int);
+void phaserMenu();
+void initialisePhaserMode();
+void longMode();
+void initialiseLongMode();
+void scrollLongSeq(int inc);
+
+#endif
