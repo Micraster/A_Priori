@@ -1,4 +1,4 @@
-#Heading Jimmy Cliffe: A Deconstructed Dub Siren
+Jimmy Cliffe: A Deconstructed Dub Siren
 ---
 This uses a modified version of a Dub Siren to provide a basic square wave VCO and LFO. I finished the module on the weekend that Jimmy Cliff died and named the module to reflect the Dub Siren's reggae heritage, a tribute to the great singer and in reference to Cliffe Hill, a local landmark visible from my school.
 
