@@ -4,7 +4,7 @@ This uses a modified version of a Dub Siren to provide a basic square wave VCO a
 
 Cliffe Hill gets it name from the chalk cliff created by the river Ouse and quarrying. It is the site of the deadliest Avalanche in British history when in 1834 a build up of snow above Cliffe Highstreet collapsed onto a row of cottages and killed 8 people. The event gave its name to the Snowdrop inn, located close to the scene of this event.
 
-Version 2.0. I prepared the first set of Gerbers in a rush and they contain many embarassing errors. Version 2.0 works much better. 
+**Version 2.0** I prepared the first set of Gerbers in a rush and they contain many embarassing errors. Version 2.0 works much better. 
 
 C1 and C2 can be varied to give a range of different frequencies for LFO and VCO. 
 
