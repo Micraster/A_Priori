@@ -1,4 +1,6 @@
-This uses a modified version of a Dub Siren to provide a basic square wave VCO and LFO. I finished the module on the weekend that Jimmy Cliff died and named the module in to reflect the Dub Siren's reggae heritage, a tribute to the great singer and in reference to Cliffe Hill, a local landmark visible from my school.
+#Heading Jimmy Cliffe: A Deconstructed Dub Siren
+
+This uses a modified version of a Dub Siren to provide a basic square wave VCO and LFO. I finished the module on the weekend that Jimmy Cliff died and named the module to reflect the Dub Siren's reggae heritage, a tribute to the great singer and in reference to Cliffe Hill, a local landmark visible from my school.
 
 Cliffe Hill gets it name from the chalk cliff created by the river Ouse and quarrying. It is the site of the deadliest Avalanche in British history when in 1834 a build up of snow above Cliffe Highstreet collapsed onto a row of cottages and killed 8 people. The event gave its name to the Snowdrop inn, located close to the scene of this event.
 
